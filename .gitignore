@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+server/public/
+*.tsbuildinfo
+vite.config.ts.timestamp-*
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
