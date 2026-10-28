@@ -214,7 +214,7 @@ export const personalityTypes = {
     name: "Architect",
     description:
       "INTJ (Architect) is a personality type with the Introverted, Intuitive, Thinking, and Judging traits. These thoughtful tacticians love perfecting the details of life, applying creativity and rationality to everything they do. Their inner world is often a private, complex one.",
-    image: "https://i.ibb.co/CHbwmXp/IMG-20250112-001201.jpg",
+    image: "/banners/intj.svg",
     strengths: ["Strategic thinking", "Independent", "Innovative", "Determined", "Analytical"],
     growthAreas: [
       "Emotional expression",
@@ -228,7 +228,7 @@ export const personalityTypes = {
     name: "Logician",
     description:
       "INTP (Logician) is a personality type with the Introverted, Intuitive, Thinking, and Prospecting traits. These flexible thinkers enjoy taking an unconventional approach to many aspects of life. They often seek out unlikely paths, mixing willingness to experiment with personal creativity.",
-    image: "https://i.ibb.co/4gRvrQs/IMG-20250112-001440.jpg",
+    image: "/banners/intp.svg",
     strengths: ["Analytical thinking", "Original ideas", "Open-minded", "Objective", "Learning ability"],
     growthAreas: ["Emotional awareness", "Practical matters", "Following rules", "Social skills", "Project completion"],
   },
@@ -236,7 +236,7 @@ export const personalityTypes = {
     name: "Commander",
     description:
       "ENTJ (Commander) is a personality type with the Extraverted, Intuitive, Thinking, and Judging traits. They are decisive people who love momentum and accomplishment. They gather information to construct their creative visions but rarely hesitate for long before acting on them.",
-    image: "https://i.ibb.co/cvtpy95/IMG-20250112-001804.jpg",
+    image: "/banners/entj.svg",
     strengths: ["Leadership", "Strategic planning", "Charismatic", "Efficient", "Decisive"],
     growthAreas: ["Emotional sensitivity", "Patience", "Accepting criticism", "Flexibility", "Work-life balance"],
   },
@@ -244,7 +244,7 @@ export const personalityTypes = {
     name: "Debater",
     description:
       "ENTP (Debater) is a personality type with the Extraverted, Intuitive, Thinking, and Prospecting traits. They tend to be bold and creative, deconstructing and rebuilding ideas with great mental agility. They pursue their goals vigorously despite any resistance they might encounter.",
-    image: "https://i.ibb.co/VNRNzhb/IMG-20250112-000402.jpg",
+    image: "/banners/entp.svg",
     strengths: ["Innovation", "Knowledge seeking", "Charisma", "Adaptability", "Problem solving"],
     growthAreas: ["Follow-through", "Sensitivity", "Organization", "Practical focus", "Patience"],
   },
@@ -252,7 +252,7 @@ export const personalityTypes = {
     name: "Advocate",
     description:
       "INFJ (Advocate) is a personality type with the Introverted, Intuitive, Feeling, and Judging traits. They tend to approach life with deep thoughtfulness and imagination. Their inner vision, personal values, and a quiet, principled version of humanism guide them in all things.",
-    image: "https://i.ibb.co/Wxn5L8y/IMG-20250112-000219.jpg",
+    image: "/banners/infj.svg",
     strengths: ["Creative", "Insightful", "Principled", "Passionate", "Altruistic"],
     growthAreas: ["Perfectionism", "Avoiding conflict", "Burnout tendency", "Opening up", "Self-criticism"],
   },
@@ -260,7 +260,7 @@ export const personalityTypes = {
     name: "Mediator",
     description:
       "INFP (Mediator) is a personality type with the Introverted, Intuitive, Feeling, and Prospecting traits. These rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do. Poetic, kind and altruistic people, always eager to help a good cause.",
-    image: "https://i.ibb.co/0QgNyWB/IMG-20250112-002016.jpg",
+    image: "/banners/infp.svg",
     strengths: ["Empathy", "Creativity", "Idealism", "Adaptability", "Dedication"],
     growthAreas: ["Practical skills", "Taking criticism", "Self-confidence", "Focus", "Organization"],
   },
@@ -268,7 +268,7 @@ export const personalityTypes = {
     name: "Protagonist",
     description:
       "ENFJ (Protagonist) is a personality type with the Extraverted, Intuitive, Feeling, and Judging traits. These warm, forthright types love helping others, and they tend to have strong ideas and values. They back their perspective with the creative energy to achieve their goals. Charismatic and inspiring leaders, able to mesmerize their listeners.",
-    image: "https://i.ibb.co/4pJy3w9/IMG-20250112-002313.jpg",
+    image: "/banners/enfj.svg",
     strengths: ["Leadership", "Charisma", "Empathy", "Organization", "Reliability"],
     growthAreas: ["Overextending", "Overthinking", "Perfectionism", "Taking criticism", "Self-care"],
   },
@@ -276,7 +276,7 @@ export const personalityTypes = {
     name: "Campaigner",
     description:
       "ENFP (Campaigner) is a personality type with the Extraverted, Intuitive, Feeling, and Prospecting traits. These people tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. Their vibrant energy can flow in many directions. Enthusiastic, creative and sociable free spirits, who can always find a reason to smile.",
-    image: "https://i.ibb.co/RSWPZdR/IMG-20250112-002703.jpg",
+    image: "/banners/enfp.svg",
     strengths: ["Creativity", "Enthusiasm", "Adaptability", "Communication", "Collaboration"],
     growthAreas: ["Focus", "Follow-through", "Organization", "Practical matters", "Stress management"],
   },
@@ -284,7 +284,7 @@ export const personalityTypes = {
     name: "Logistician",
     description:
       "ISTJ (Logistician) is a personality type with the Introverted, Observant, Thinking, and Judging traits. These people tend to be reserved yet willful, with a rational outlook on life. They compose their actions carefully and carry them out with methodical purpose. Practical and fact-minded individuals, whose reliability cannot be doubted.",
-    image: "https://i.ibb.co/4gRvrQs/IMG-20250112-001440.jpg",
+    image: "/banners/istj.svg",
     strengths: ["Organized", "Reliable", "Detail-oriented", "Practical", "Honest"],
     growthAreas: ["Flexibility", "Innovation", "Emotional expression", "Change adaptation", "Social skills"],
   },
@@ -292,7 +292,7 @@ export const personalityTypes = {
     name: "Defender",
     description:
       "ISFJ (Defender) is a personality type with the Introverted, Observant, Feeling, and Judging traits. These people tend to be warm and unassuming in their own steady way. They’re efficient and responsible, giving careful attention to practical details in their daily lives. Very dedicated and warm protectors, always ready to defend their loved ones.",
-    image: "https://images.unsplash.com/photo-1516585427167-9f4af9627e6c",
+    image: "/banners/isfj.svg",
     strengths: ["Supportive", "Reliable", "Patient", "Detail-oriented", "Traditional"],
     growthAreas: ["Saying no", "Self-expression", "Change adaptation", "Taking risks", "Innovation"],
   },
@@ -300,7 +300,7 @@ export const personalityTypes = {
     name: "Executive",
     description:
       "ESTJ (Executive) is a personality type with the Extraverted, Observant, Thinking, and Judging traits. They possess great fortitude, emphatically following their own sensible judgment. They often serve as a stabilizing force among others, able to offer solid direction amid adversity. Excellent administrators, unsurpassed at managing things – or people.",
-    image: "https://i.ibb.co/f1TpMNz/IMG-20250112-003124.jpg",
+    image: "/banners/estj.svg",
     strengths: ["Organization", "Leadership", "Dedication", "Directness", "Stability"],
     growthAreas: ["Flexibility", "Empathy", "Innovation", "Handling emotions", "Relaxation"],
   },
@@ -308,7 +308,7 @@ export const personalityTypes = {
     name: "Consul",
     description:
       "ESFJ (Consul) is a personality type with the Extraverted, Observant, Feeling, and Judging traits. They are attentive and people-focused, and they enjoy taking part in their social community. Their achievements are guided by decisive values, and they willingly offer guidance to others. Extraordinarily caring, social and popular people, always eager to help.",
-    image: "https://i.ibb.co/r5ZpmxJ/IMG-20250112-003733.jpg",
+    image: "/banners/esfj.svg",
     strengths: ["Popularity", "Practical help", "Loyalty", "Organization", "Leadership"],
     growthAreas: ["Innovation", "Self-care", "Taking criticism", "Inflexibility", "Worrying"],
   },
@@ -316,7 +316,7 @@ export const personalityTypes = {
     name: "Virtuoso",
     description:
       "ISTP (Virtuoso) is a personality type with the Introverted, Observant, Thinking, and Prospecting traits. They tend to have an individualistic mindset, pursuing goals without needing much external connection. They engage in life with inquisitiveness and personal skill, varying their approach as needed. Bold and practical experimenters, masters of all kinds of tools.",
-    image: "https://i.ibb.co/FVWvxzW/IMG-20250112-003955.jpg",
+    image: "/banners/istp.svg",
     strengths: ["Creativity", "Problem-solving", "Crisis management", "Adaptability", "Technical skills"],
     growthAreas: ["Emotional awareness", "Commitment", "Planning ahead", "Social skills", "Following rules"],
   },
@@ -324,7 +324,7 @@ export const personalityTypes = {
     name: "Adventurer",
     description:
       "ISFP (Adventurer) is a personality type with the Introverted, Observant, Feeling, and Prospecting traits. They tend to have open minds, approaching life, new experiences, and people with grounded warmth. Their ability to stay in the moment helps them uncover exciting potentials. Flexible and charming artists, always ready to explore and experience something new.",
-    image: "https://i.ibb.co/7J2kFLx/IMG-20250112-004232.jpg",
+    image: "/banners/isfp.svg",
     strengths: ["Creativity", "Aesthetics", "Experimentation", "Charm", "Adaptability"],
     growthAreas: [
       "Long-term planning",
@@ -338,7 +338,7 @@ export const personalityTypes = {
     name: "Entrepreneur",
     description:
       "ESTP (Entrepreneur) is a personality type with the Extraverted, Observant, Thinking, and Prospecting traits. They tend to be energetic and action-oriented, deftly navigating whatever is in front of them. They love uncovering life’s opportunities, whether socializing with others or in more personal pursuits. Smart, energetic and very perceptive people, who truly enjoy living on the edge.",
-    image: "https://i.ibb.co/0fmJzCz/IMG-20250112-004521.jpg",
+    image: "/banners/estp.svg",
     strengths: ["Risk-taking", "Perceptiveness", "Sociability", "Practicality", "Rationality"],
     growthAreas: ["Long-term planning", "Following rules", "Emotional awareness", "Commitment", "Organization"],
   },
@@ -346,7 +346,7 @@ export const personalityTypes = {
     name: "Entertainer",
     description:
       "ESFP (Entertainer) is a personality type with the Extraverted, Observant, Feeling, and Prospecting traits. These people love vibrant experiences, engaging in life eagerly and taking pleasure in discovering the unknown. They can be very social, often encouraging others into shared activities. Spontaneous, energetic and enthusiastic people – life is never boring around them.",
-    image: "https://i.ibb.co/LZ9DrtY/IMG-20250112-004803.jpg",
+    image: "/banners/esfp.svg",
     strengths: ["Showmanship", "Practicality", "Aesthetics", "Observation", "Originality"],
     growthAreas: ["Focus", "Planning", "Follow-through", "Organization", "Serious matters"],
   },

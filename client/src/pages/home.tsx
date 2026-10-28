@@ -108,7 +108,7 @@ export default function Home() {
                 </div>
                 <div className="md:order-2 order-1 mb-4 md:mb-0">
                   <img
-                    src="https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/images/panoramic/getty_862457080_200012792000928089_371310.jpg"
+                    src="/images/home-banner.svg"
                     alt="Personality Insights"
                     className="rounded-lg object-cover w-full h-40 sm:h-48 md:h-52 shadow-md"
                   />
