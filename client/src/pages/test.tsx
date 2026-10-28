@@ -66,6 +66,9 @@ export default function Test() {
       return response.json();
     },
     onSuccess: (data) => {
+      // Keep this user's result in the browser so the results page doesn't
+      // depend on the server still having it in memory (it won't on Vercel).
+      sessionStorage.setItem("latestResult", JSON.stringify(data));
       sessionStorage.removeItem("testAnswers");
       sessionStorage.removeItem("currentQuestion");
       navigate(`/results/${data.type}`);

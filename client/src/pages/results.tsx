@@ -21,7 +21,13 @@ export default function Results() {
     queryKey: ["/api/test/results/1"],
   })
 
-  const latestResult = results?.[results.length - 1]
+  const latestResult = (() => {
+    try {
+      const saved = sessionStorage.getItem("latestResult")
+      if (saved) return JSON.parse(saved)
+    } catch {}
+    return (results as any[] | undefined)?.[(results as any[]).length - 1]
+  })()
   const userName = sessionStorage.getItem("userName") || "Anonymous"
 
   useEffect(() => {
